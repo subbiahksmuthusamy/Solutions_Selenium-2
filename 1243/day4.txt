@@ -1,3 +1,0 @@
-http://www.geeksforgeeks.org/access-modifiers-java/
-
-http://www.geeksforgeeks.org/final-keyword-java/
