@@ -21,7 +21,7 @@ public class ipaddress {
 
     public boolean validateIpaddress()
     {
-        String validData="012345679.";
+        String validData="0123456789.";
         isQualityGood = false;
         int dotCount;
 
