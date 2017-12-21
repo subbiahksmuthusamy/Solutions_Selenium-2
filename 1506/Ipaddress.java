@@ -13,7 +13,7 @@ public class Ipaddress {
 		Scanner iscan = new Scanner(System.in);
 		System.out.println("Please enter the IP Adress :");
 		ip = iscan.nextLine();
-		val = Pattern.matches("^(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})$" , ip);
+		val = Pattern.matches("^(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})$" , ip);
 		
 		if (val == true)
 		{
