@@ -72,6 +72,7 @@ public class CoreJavaTest1{
 		in.close();
 		in2.close();
 		in3.close();
+		
 	}
 }
 
